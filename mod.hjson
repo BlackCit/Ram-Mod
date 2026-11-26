@@ -1,0 +1,9 @@
+name: "ram"
+displayName: "Realistic Animation Mod (RAM)"
+author: "BlackCit"
+main: "ram.RamMod"
+description: "Добавляет плавные анимации, физику частиц, отдачу, дым и динамические эффекты для одиночной и сетевой игры."
+version: "1.0"
+minGameVersion: "160"
+java: true
+hidden: true
